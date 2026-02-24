@@ -8,6 +8,8 @@ namespace VTM_Client_AIF22
 {
     internal static class Program
     {
+        private static IController controller
+
         /// <summary>
         /// Der Haupteinstiegspunkt für die Anwendung.
         /// </summary>
